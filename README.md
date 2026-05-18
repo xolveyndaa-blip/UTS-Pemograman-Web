@@ -3439,7 +3439,7 @@ Halaman statistik digunakan untuk menampilkan grafik dan jumlah data mahasiswa.
 
 ## Halaman Logout
 
-![Logout](dokumentasi%20UTS/PengaturandanLogout.png)
+![Pengaturan dan Logout](dokumentasi%20UTS/PengaturandanLogout.png)
 
 Halaman logout digunakan untuk keluar dari sistem dashboard admin.
 
