@@ -3402,6 +3402,9 @@ showNotif(
 </html>
 
 
+
+
+
 # Dokumentasi UTS Pemrograman Web
 
 ## Halaman Login
@@ -3438,8 +3441,6 @@ Halaman statistik digunakan untuk menampilkan grafik dan jumlah data mahasiswa.
 
 ## Halaman Pengaturan dan Logout
 
-![Pengaturan dan Logout](dokumentasi%20UTS/Logout.png)
+![Pengaturan](dokumentasi%20UTS/Pengatuan.png)
 
 Halaman pengaturan digunakan untuk mengatur tema dashboard, menghapus semua data mahasiswa, dan melakukan logout dari sistem admin.
-
-
