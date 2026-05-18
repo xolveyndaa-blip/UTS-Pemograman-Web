@@ -3401,5 +3401,45 @@ showNotif(
 </body>
 </html>
 
-#dokumentasi
+
+
+# Dokumentasi UTS Pemrograman Web
+
+## Halaman Login
+
+![Login](dokumentasi%20UTS/Login.png)
+
+Halaman login digunakan untuk masuk ke sistem dashboard admin menggunakan username dan password.
+
+---
+
+## Halaman Dashboard
+
+![Dashboard](dokumentasi%20UTS/Dashboard.png)
+
+Halaman dashboard digunakan untuk mengelola data mahasiswa seperti menambah, mengedit, dan menghapus data.
+
+---
+
+## Halaman Data Mahasiswa
+
+![Mahasiswa](dokumentasi%20UTS/Mahasiswa.png)
+
+Halaman mahasiswa digunakan untuk menampilkan seluruh data mahasiswa yang tersimpan.
+
+---
+
+## Halaman Statistik
+
+![Statistik](dokumentasi%20UTS/Statistik.png)
+
+Halaman statistik digunakan untuk menampilkan grafik dan jumlah data mahasiswa.
+
+---
+
+## Halaman Logout
+
+![Logout](dokumentasi%20UTS/Logout.png)
+
+Halaman logout digunakan untuk keluar dari sistem dashboard admin.
 
